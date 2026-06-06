@@ -9,11 +9,15 @@ I am an AI automation specialist and web developer passionate about building sma
 
 Projects
 
- 1. AI Email Response System
-Tools:Make.com + ChatGPT API + Gmail
-- Reads incoming emails and generates intelligent AI replies automatically
-- Reduces manual email handling time by over 80%
-- Uses conditional logic to handle different email categories
+ 1. Email Automation System
+Tools:Gmail + Make AI Toolkit + Google Sheets
+- Watches Gmail for incoming emails automatically
+- Processes emails using Make's built-in AI toolkit
+- Stores data in Google Sheets for tracking
+- Eliminates manual email handling completely
+
+🔗 [View Live Scenario on Make.com](https://eu1.make.com/public/shared-scenario/8rwL6zzdHTp/integration-gmail-make-ai-toolkit-goog)
+  
 
  2. Lead Capture & CRM Automation
 Tools: n8n + Airtable + Slack
